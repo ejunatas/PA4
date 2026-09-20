@@ -44,6 +44,7 @@ whose Gender is Female. Retain only: Name, Track, GEAS, Electronics, Average
 
 OUTPUT:
 
+
 <img width="555" height="275" alt="image" src="https://github.com/user-attachments/assets/ba7e0d39-4582-4e46-ac27-70108639ef39" />
 
 -Code that shows the average is atleast 60:
@@ -52,6 +53,8 @@ OUTPUT:
 
 
 OUTPUT:
+
+
 <img width="491" height="207" alt="image" src="https://github.com/user-attachments/assets/99da47af-1560-4f07-a0e8-f3973937b60b" />
 
 ### PROBLEM C: CATEGORY-AVERAGE VISUALIZATION
@@ -63,6 +66,7 @@ a. For each feature, compute the mean of Average for every category using Pandas
 
 
 OUTPUT:
+
 
 <img width="349" height="311" alt="image" src="https://github.com/user-attachments/assets/ca639732-1232-4aca-a69f-181566d276f0" />
 
