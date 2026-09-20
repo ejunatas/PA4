@@ -21,6 +21,8 @@ is Communication.
 <img width="531" height="87" alt="image" src="https://github.com/user-attachments/assets/a87aa025-72fb-4222-aae6-e299a0406199" />
 
 OUTPUT:
+
+
 <img width="180" height="203" alt="image" src="https://github.com/user-attachments/assets/d486cf73-880b-4345-88c1-30da4920eba6" />
 
 - Codes that show students whose Hometown is Visayas and whose Track
