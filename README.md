@@ -40,7 +40,7 @@ OUTPUT:
 Create a second DataFrame named VisFemale containing students whose Hometown is Visayas and
 whose Gender is Female. Retain only: Name, Track, GEAS, Electronics, Average
 
--Code to show students whose Hometown is Visayas and whose Gender is Female:
+- Code to show students whose Hometown is Visayas and whose Gender is Female:
 
 <img width="712" height="139" alt="image" src="https://github.com/user-attachments/assets/8fcac62c-4751-4111-8cdd-1d82889cea73" />
 
@@ -49,7 +49,7 @@ OUTPUT:
 
 <img width="555" height="275" alt="image" src="https://github.com/user-attachments/assets/ba7e0d39-4582-4e46-ac27-70108639ef39" />
 
--Code that shows the average is atleast 60:
+- Code that shows the average is atleast 60:
 
 <img width="570" height="128" alt="image" src="https://github.com/user-attachments/assets/e39d6f55-8187-499c-a148-c3e562848882" />
 
@@ -73,13 +73,13 @@ OUTPUT:
 <img width="349" height="311" alt="image" src="https://github.com/user-attachments/assets/ca639732-1232-4aca-a69f-181566d276f0" />
 
 b. Display the three summary tables.
--Code:
+- Code:
 
 <img width="455" height="47" alt="image" src="https://github.com/user-attachments/assets/22032e6f-7c2a-4ff7-ae0b-2a99486cbaf9" />
 
 c. Create one figure containing three bar charts: mean Average by Track, by Gender, and by
 Hometown.
--Code:
+- Code:
 
 <img width="806" height="600" alt="image" src="https://github.com/user-attachments/assets/d5723963-4c41-414c-b119-51309cc1d5bd" />
 
@@ -90,7 +90,7 @@ OUTPUT:
 
 d. Below the figure, write three concise statements identifying the category with the highest sample
 
--Code to show statements with the highest sample per category:
+- Code to show statements with the highest sample per category:
 
 <img width="767" height="154" alt="image" src="https://github.com/user-attachments/assets/4fd1f4da-a311-4cdd-b917-2846bf3fd11c" />
 
